@@ -20,7 +20,7 @@ Bu proje, Sentiment140 veri setini kullanarak duygu analizi yapmayı hedeflemekt
 
 ## Kullanılan Araçlar ve Kütüphaneler
 
-* Python 3.0
+* Python 
 
 * Jupyter Notebook
 
